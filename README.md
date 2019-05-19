@@ -3,7 +3,7 @@ A Simple iOS Application for Passing Data Between Controllers in Swift 5 using i
 
 -------------
 
-TODO:
+TODO:This app will have following different way to pass data between two controllers
 
 1. Segue
 2. Navigation push controller
